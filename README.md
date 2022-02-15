@@ -1,6 +1,6 @@
 # raahee_assignment
 
-A new Flutter project.
+Includes UI for social media. Also has functionality for uploading and liking a post.
 
 ## Getting Started
 
